@@ -36,7 +36,7 @@ import pandas as pd
 SOURCE_CSV = Path(
     r"C:\Users\Administrator\Desktop\BULK OPTIONSTRAT\ESTRATEGIAS\Skew\SKEW_PUT_ENRICHED.csv"
 )
-DASHBOARD_DIR = Path(r"C:\Users\Administrator\Desktop\PUT_SKEW_NIVEL_ALLANTIS_DASHBOARD")
+DASHBOARD_DIR = Path(r"C:\Users\Administrator\Desktop\BULK OPTIONSTRAT\ESTRATEGIAS\Skew\dashboards\PUT_SKEW_NIVEL_ALLANTIS_DASHBOARD")
 DATA_JSON = DASHBOARD_DIR / "data.json"
 
 GH_REPO = "manumartinb/PUT_SKEW_NIVEL_ALLANTIS"
